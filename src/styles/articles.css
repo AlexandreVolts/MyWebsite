@@ -1,0 +1,32 @@
+.article-showcase {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.article-showcase a {
+    color: black;
+    text-decoration: none;
+}
+.article-box {
+    width: 400px;
+    padding: 25px;
+    box-shadow: 1px 1px 5px black;
+}
+.article-box h4 {
+    font-weight: normal;
+}
+.article-content {
+    width: 800px;
+    margin: auto;
+}
+.article-content p {
+    text-align: justify;
+    font-size: 1em;
+}
+.article-content blockquote {
+    border-left: 5px lightgray solid;
+    padding-left: 5px;
+    color: darkgray;
+    font-size: 0.9em;
+}
