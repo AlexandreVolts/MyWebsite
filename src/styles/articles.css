@@ -30,25 +30,35 @@
 }
 .article-content h2 {
     margin: 20px 0px;
-    font-size: 2em;
+    font-size: 2.1em;
     border-bottom: 1px solid lightgray;
 }
 .article-content h3 {
-    font-size: 1.8em;
+    font-size: 1.9em;
     padding: 10px 0px;
 }
 .article-content h4 {
-    font-size: 1.3em;
+    font-size: 1.5em;
     margin: 8px 0px;
     border-bottom: 1px dashed lightgray;
 }
 .article-content p {
+    padding: 5px;
     text-align: justify;
     font-size: 1.25em;
 }
 .article-content a {
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1.25em;
+}
+.article-content img {
+    margin: auto;
+    display: block;
+}
+.article-content figure {
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
 }
 .article-content blockquote {
     border-left: 5px lightgray solid;

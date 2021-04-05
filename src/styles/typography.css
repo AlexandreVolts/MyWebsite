@@ -1,8 +1,8 @@
 @font-face {
-    font-family: "Roboto";
-    src: url("../fonts/Roboto-Regular.ttf");
-}
-@font-face {
     font-family: "OpenDys";
     src: url("../fonts/OpenDyslexic-Regular.otf");
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url("../fonts/Quicksand-SemiBold.ttf");
 }
