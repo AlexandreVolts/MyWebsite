@@ -9,7 +9,7 @@ module.exports = {
         name: "pages",
         path: `${__dirname}/src/files/`
       }
-    },
+    }
   ],
   siteMetadata: {
     title: "Alexandre Cochet",

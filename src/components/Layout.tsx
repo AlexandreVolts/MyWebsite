@@ -1,4 +1,5 @@
 import React from "react";
+import NavBar from "components/Navbar";
 import "./../styles/global.css";
 
 interface LayoutProps
@@ -10,6 +11,7 @@ export default function Layout(props:LayoutProps)
 {
     return (
         <div>
+            <NavBar></NavBar>
             <main>
                 {props.children}
             </main>
