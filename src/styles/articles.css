@@ -67,6 +67,12 @@
     color: darkgray;
     font-size: 1em;
 }
+.article-content .aparte {
+    border: 1px solid black;
+    background-color: rgb(245, 245, 245);
+    padding: 10px;
+    font-style: italic;
+}
 .author {
     padding: 10px;
     text-align: right !important;
