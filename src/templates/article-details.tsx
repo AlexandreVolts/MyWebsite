@@ -10,8 +10,15 @@ export default function ArticleDetails({ data })
     return (
         <Layout>
             <div className="article-content">
-                <div dangerouslySetInnerHTML={{__html: html }}></div>            
-                <p className="author">Auteur: Alexandre Cochet</p>
+                <div dangerouslySetInnerHTML={{__html: html }}></div>
+                <div className="article-footer">          
+                    <p className="author">Auteur: Alexandre Cochet</p>
+                    <p className="license"><i>License CC-BY-ND</i></p>
+                    <div>
+                        <img src="/static/license/cc.png" />
+                        <img src="/static/license/nd.png" />
+                    </div>
+                </div>
             </div>
         </Layout>
     );

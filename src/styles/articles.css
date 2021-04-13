@@ -73,6 +73,14 @@
     padding: 10px;
     font-style: italic;
 }
+.article-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.article-footer div img {
+    display: inline;
+}
 .author {
     padding: 10px;
     text-align: right !important;

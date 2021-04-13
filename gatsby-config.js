@@ -9,6 +9,14 @@ module.exports = {
         name: "pages",
         path: `${__dirname}/src/files/`
       }
+    },
+    {
+      resolve: "gatsby-plugin-intl",
+      options: {
+        path: `${__dirname}/src/files/intl`,
+        languages: ["fr", "es", "tzm"],
+        defaultLanguage: "fr"
+      }
     }
   ],
   siteMetadata: {

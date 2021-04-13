@@ -2,6 +2,7 @@
 title: Le nucléaire
 subjects: Ecologie, énergie
 slug: nuklea-energio
+lang: fr
 date: 2021-04-02T19:33+00:00
 ---
 # L'énergie nucléaire
@@ -94,7 +95,7 @@ En ce sens, les citoyens de la Convention ont dû se heurter à l'impossibilité
 ## Élargir le raisonnement
 
 Jusque là le raisonnement était exclusivement énergétique, à savoir s'il fallait continuer la consommation d'énergie nucléaire. Les centrales nucléaires sont souvent vues comme le signe d'un productivisme effréné, pourtant s'il n'est pas souhaitable de remplacer le nucléaire par de l'éolien, ce n'est pas une raison pour ne pas réduire la consommation d'énergie à échelle individuelle et collective.\
-Défendre le nucléaire, ce n'est pas défendre une augmentation de la production à un rythme toujours plus intense. Pour aller plus loin, on pourrait même être en faveur de la fermeture de centrales nucléaires tout en étant en faveur du nucléaire, à condition qu'elle soit la conséquence d'une baisse de la consommation d'énergie électrique.
+Défendre le nucléaire, ce n'est pas défendre une augmentation de la production à un rythme toujours plus intense. Pour aller plus loin, on pourrait même être en faveur de la fermeture de centrales nucléaires tout en étant pour le nucléaire, à condition qu'elle soit la conséquence d'une baisse de la consommation d'énergie électrique.
 
 ## Sources
 

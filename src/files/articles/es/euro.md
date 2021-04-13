@@ -1,7 +1,8 @@
 ---
 title: El Euro
 subjects: economia, moneda
-slug: euro-es-tmp
+slug: euro
+lang: es
 date: 2021-04-04T15:15+00:00
 ---
 # El euro

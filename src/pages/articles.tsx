@@ -1,11 +1,13 @@
-import { Link } from "gatsby";
-import { graphql } from "gatsby";
+import { Link, graphql } from "gatsby";
 import React from "react";
+import { useIntl } from "gatsby-plugin-intl";
 import "./../styles/articles.css";
 
 export default function Articles({ data })
 {
-    const articles = data.allMarkdownRemark.nodes;
+    const intl = useIntl();
+    const articles = data.allMarkdownRemark.nodes.filter((art) => art.frontmatter.lang === intl.locale);
+    console.log(intl.locale);
 
     const renderArticle = (article) => {
         return (
@@ -33,6 +35,7 @@ query Articles {
                 subjects
                 title
                 slug
+                lang
             }
             id
         }

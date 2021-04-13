@@ -15,7 +15,8 @@ exports.createPages = async ({ graphql, actions }) => {
       allMarkdownRemark {
         nodes {
           frontmatter {
-            slug
+            slug,
+            lang
           }
         }
       }
@@ -26,7 +27,10 @@ exports.createPages = async ({ graphql, actions }) => {
     actions.createPage({
       path: `/articles/${node.frontmatter.slug}`,
       component: path.resolve("./src/templates/article-details.tsx"),
-      context: { slug: node.frontmatter.slug }
+      context: {
+        slug: node.frontmatter.slug,
+        lang: node.frontmatter.lang
+      }
     });
   })
 };

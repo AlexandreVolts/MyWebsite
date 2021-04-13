@@ -2,6 +2,7 @@
 title: L'Euro
 subjects: économie, monnaie
 slug: euro
+lang: fr
 date: 2021-04-04T15:15+00:00
 ---
 # L'Euro
