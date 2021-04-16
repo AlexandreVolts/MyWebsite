@@ -6,15 +6,15 @@ import "./../styles/articles.css";
 export default function Articles({ data })
 {
     const intl = useIntl();
-    const articles = data.allMarkdownRemark.nodes.filter((art) => art.frontmatter.lang === intl.locale);
-    console.log(intl.locale);
+    const articles = data.allMarkdownRemark.edges.filter((art) => art.node.frontmatter.lang === intl.locale);
 
-    const renderArticle = (article) => {
+    const renderArticle = (content) => {
+        const article = content.node.frontmatter;
         return (
-            <Link to={`${article.frontmatter.slug}`} key={article.id}>
+            <Link to={`${article.slug}`} key={content.node.id}>
                 <div className="article-box">
-                    <h3>{ article.frontmatter.title }</h3>
-                    <h4>{ article.frontmatter.subjects }</h4>
+                    <h3>{ article.title }</h3>
+                    <h4>{ article.subjects }</h4>
                 </div>
             </Link>
         );
@@ -30,14 +30,16 @@ export default function Articles({ data })
 export const query = graphql`
 query Articles {
     allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
-        nodes {
-            frontmatter {
-                subjects
-                title
-                slug
-                lang
+        edges {
+            node {
+                frontmatter {
+                    subjects
+                    title
+                    slug
+                    lang
+                }
+                id
             }
-            id
         }
     }
 }  

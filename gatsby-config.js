@@ -15,7 +15,8 @@ module.exports = {
       options: {
         path: `${__dirname}/src/files/intl`,
         languages: ["fr", "es", "tzm"],
-        defaultLanguage: "fr"
+        defaultLanguage: "fr",
+        redirect: true
       }
     }
   ],

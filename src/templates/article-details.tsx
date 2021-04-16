@@ -1,17 +1,18 @@
 import Layout from "@/components/Layout";
 import { graphql } from "gatsby";
 import React from "react";
+import { changeLocale } from "gatsby-plugin-intl";
 
 export default function ArticleDetails({ data })
 {
     const { html } = data.markdownRemark;
-    const { title, subjects } = data.markdownRemark.frontmatter;
-    
+    const { title, subjects, lang } = data.markdownRemark.frontmatter;
+
     return (
         <Layout>
             <div className="article-content">
                 <div dangerouslySetInnerHTML={{__html: html }}></div>
-                <div className="article-footer">          
+                <div className="article-footer">
                     <p className="author">Auteur: Alexandre Cochet</p>
                     <p className="license"><i>License CC-BY-ND</i></p>
                     <div>
@@ -25,14 +26,15 @@ export default function ArticleDetails({ data })
 }
 
 export const query = graphql`
-    query Article($slug: String) {
-        markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+    query Article($slug: String!, $lang: String!) {
+        markdownRemark(frontmatter: { lang: {eq: $lang }, slug: { eq: $slug } }) {
             html
             frontmatter {
                 subjects
                 title
                 date
+                lang
             }
         }
-  }
+    }
 `

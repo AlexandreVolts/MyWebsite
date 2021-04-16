@@ -1,7 +1,7 @@
 ---
 title: Le nucléaire
 subjects: Ecologie, énergie
-slug: nuklea-energio
+slug: energie-nucleaire
 lang: fr
 date: 2021-04-02T19:33+00:00
 ---
@@ -80,9 +80,9 @@ Si le risque pour les travailleurs est réduit, la zone d'extraction est contami
 ## La surgénération
 
 Plus tôt, il a été évoqué que l'IAEA estimait qu'au rythme actuel, les ressources en uranium 235 seraient épuisées en un siècle. Il existe cependant un procédé qui permet de valoriser l'uranium 238. Lorsque l'on extrait de l'uranium, il y a en réalité deux types d'uranium principaux: L'uranium 235, naturellement fissile, et donc utilisable comme source d'énergie, il compose 0.7% du minerai. Les 99.3% restants sont de l'uranium 238, non-fissile<sup>30</sup>.\
-Il existe cependant un procédé qui permet de transformer l'uranium 238 non-fissile pour en faire une source d'énergie complémentaire à l'uranium 235. Ce procédé, c'est la surgénération. Les centrales nucléaires qui utilisent ce type de procédé produisent plus d'énergie utilisable qu'elles n'en consomment, en transformant de l'uranium 238 appauvri en plutonium 239. Il devient alors fissile et utilisable comme combustible pour les centrales nucléaires, ce qui démultiplie la quantité d'énergie à disposition. Le seul stock d'uranium 238 français permettrait de tenir plusieurs millénaires au rythme de consommation actuelle<sup>31</sup>.\
+Il existe cependant un procédé qui permet de transformer l'uranium 238 non-fissile pour en faire une source d'énergie complémentaire à l'uranium 235. Ce procédé, c'est la surgénération. Les centrales nucléaires qui utilisent ce type de procédé produisent plus d'énergie utilisable qu'elles n'en consomment, en transformant de l'uranium 238 appauvri en plutonium 239. Il devient alors fissile et utilisable comme combustible pour les centrales nucléaires, ce qui démultiplie la quantité d'énergie à disposition. Le seul stock d'uranium 238 français permettrait de tenir plusieurs millénaires au rythme de consommation actuelle<sup>30</sup>.\
 Il est aussi possible de faire de la surgénération avec du thorium 232. Il est plus abondant que l'uranium mais aurait le défaut de devoir créer de nouvelles mines, puisque le thorium n'est que très peu utilisé pour l'instant.\
-Développemer la technologie de la surgénération a cependant un coût, très élevé: Plus de 12 milliards d'euros pour le surgénérateur Superphoenix en France, fermé en 1997, et 2 milliards pour son démantèlement<sup>32</sup>. Cependant, au vu des enjeux actuels autour de l'écologie et du réchauffement climatique, et avec le besoin de financement massif de la transition énergétique, on peut espérer qu'une partie de ce financement aille au développement d'une filière de surgénération.
+Développemer la technologie de la surgénération a cependant un coût, très élevé: Plus de 12 milliards d'euros pour le surgénérateur Superphoenix en France, fermé en 1997, et 2 milliards pour son démantèlement<sup>31</sup>. Cependant, au vu des enjeux actuels autour de l'écologie et du réchauffement climatique, et avec le besoin de financement massif de la transition énergétique, on peut espérer qu'une partie de ce financement aille au développement d'une filière de surgénération.
 
 ## L'idéologie verte
 
@@ -112,7 +112,7 @@ Défendre le nucléaire, ce n'est pas défendre une augmentation de la productio
 15. [The Other Report on Tchernobyl (TORCH)](http://www.chernobylreport.org/torch.pdf)
 16. [Chernobyl death toll grossly underestimated *(Greenpeace - Archive)*](https://wayback.archive-it.org/9650/20200502081113/http://p3-raw.greenpeace.org/international/en/news/features/chernobyl-deaths-180406/)
 17. [Tchernobyl: L'ampleur réelle de l'accident *(OMS - Organisation Mondiale de la Santé)*](https://www.who.int/mediacentre/news/releases/2005/pr38/fr/)
-18. [Estimates of the cancer burden in Europe from radioactive fallout from theChernobyl accident](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijc.22037)
+18. [Estimates of the cancer burden in Europe from radioactive fallout from the Chernobyl accident](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijc.22037)
 19. [573 deaths 'related to nuclear crisis' *(Daily Yomiuri)*](https://www.nrc.gov/docs/ML1234/ML12340A564.pdf)
 20. [Séisme de 2011 de la côte Pacifique du Tōhoku *(Wikipédia)*](https://fr.wikipedia.org/wiki/S%C3%A9isme_de_2011_de_la_c%C3%B4te_Pacifique_du_T%C5%8Dhoku#cite_note-6)
 21. [Worldwide health effects of the Fukushima Daiichi nuclear accident](https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22019a#!divAbstract)
@@ -121,9 +121,8 @@ Défendre le nucléaire, ce n'est pas défendre une augmentation de la productio
 24. [What are the safest sources of energy *(Our World in Data)*](https://ourworldindata.org/safest-sources-of-energy)
 25. [Entreposage du combustible nucléaire usé : Concepts et enjeux de sûreté *(IRSN)*](https://www.irsn.fr/FR/expertise/rapports_expertise/surete/Pages/Rapport-IRSN-2018-00003-entreposage-combustible-use.aspx#.XYN_EygzaUl)
 26. [Characteristics and Dose Levels for Spent Reactor Fuels](https://www.researchgate.net/publication/238613298_Characteristics_and_Dose_Levels_for_Spent_Reactor_Fuels)
-27. [Déchets: Le risque limité du stockage géologique *(Revue Générale du Nucléaire)*](https://www.sfen.org/rgn/dechets-risque-limite-stockage-geologique)
+27. [Déchets: Le risque limité du stockage géologique *(RGN - Revue Générale du Nucléaire)*](https://www.sfen.org/rgn/dechets-risque-limite-stockage-geologique)
 28. [Les ressources mondiales d'uranium *(IAEA)*](https://www.iaea.org/sites/default/files/23204891014_fr.pdf)
 29. [World uranium mining production *(World Nuclear Association)*](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production.aspx)
-30.
-31.
-32. [Les coûts de la filière électronucléaire *(Cour des comptes)*](http://archive.wikiwix.com/cache/display2.php/Rapport_thematique_filiere_electronucleaire.pdf?url=https%3A%2F%2Fwww.ccomptes.fr%2Fcontent%2Fdownload%2F1794%2F17981%2Fversion%2F6%2Ffile%2FRapport_thematique_filiere_electronucleaire.pdf)
+30. [Le combustible nucléaire : une ressource infinie ? *(RGN)*](https://www.sfen.org/rgn/combustible-nucleaire-ressource-infinie)
+31. [Les coûts de la filière électronucléaire *(Cour des comptes)*](http://archive.wikiwix.com/cache/display2.php/Rapport_thematique_filiere_electronucleaire.pdf?url=https%3A%2F%2Fwww.ccomptes.fr%2Fcontent%2Fdownload%2F1794%2F17981%2Fversion%2F6%2Ffile%2FRapport_thematique_filiere_electronucleaire.pdf)
