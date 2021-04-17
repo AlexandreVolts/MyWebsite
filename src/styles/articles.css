@@ -43,7 +43,10 @@
     margin: 8px 0px;
     border-bottom: 1px dashed lightgray;
 }
-.article-content p {
+.article-content ul {
+    display: block;
+}
+.article-content p, .article-content li {
     padding: 5px;
     text-align: justify;
     font-size: 1.25em;
