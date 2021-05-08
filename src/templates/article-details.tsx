@@ -1,7 +1,7 @@
 import Layout from "@/components/Layout";
 import { graphql } from "gatsby";
 import React from "react";
-import { changeLocale } from "gatsby-plugin-intl";
+import "./../styles/article-content.css";
 
 export default function ArticleDetails({ data })
 {
