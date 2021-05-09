@@ -1,5 +1,5 @@
 .article-content {
-    max-width: 1000px;
+    max-width: 900px;
     padding: 10px;
     margin: auto;
 }
@@ -53,4 +53,32 @@
     background-color: rgb(245, 245, 245);
     padding: 10px;
     font-style: italic;
+}
+.article-footer * {
+    text-align: right !important;
+}
+.article-footer img {
+    display: inline-block;
+    margin: 5px;
+}
+.article-footer i {
+    display: block;
+}
+.dyslexic-mode {
+    float: right;
+    font-family: "OpenDys";
+}
+.dyslexic-toggle {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+@media (max-width: 780px) {
+    .article-content img {
+        width: 100%;
+    }
+    .article-footer img {
+        display: inline-block;
+        margin: 5px;
+        width: auto;
+    }
 }

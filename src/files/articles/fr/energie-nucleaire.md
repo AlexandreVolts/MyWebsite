@@ -5,10 +5,11 @@ slug: energie-nucleaire
 lang: fr
 date: 2021-04-05T00:00+00:00
 ---
+
 # L'énergie nucléaire
 
 En 2011, un séisme majeur provoque un tsunami qui va déclencher l'une des plus grandes catastrophe du nucléaire civil: Fukushima. Ce danger a largement contribué à remettre le nucléaire au coeur du débat, et notamment du côté des écologistes qui plaidaient pour une sortie du nucléaire. Après cet accident, le Japon a arrêté tous ses réacteurs jusqu'en 2015. Pour compenser ce manque, le gouvernement Japonais s'est alors mis à importer et consommer de l'énergie fossile.\
-Dès 2014, pourtant, le gouvernement japonais fait part de son souhait de relancer la filière nucléaire, et juge le nucléaire comme "énergie d'utilité publique"<sup>1</sup>. Il prévoit dès lors de faire monter la part du nucléaire à 20% de son mix énergétique<sup>2</sup>, en commençant par la réouverture de la centrale de Sendai, et ce alors que 57% des Japonais se sont prononcés contre cette réouverture<sup>3</sup>. Un développement des énergies renouvelables est également prévu à hauteur de 20% du mix énergétique.<sup>4</sup>\
+Dès 2014, pourtant, le gouvernement japonais fait part de son souhait de relancer la filière nucléaire, et juge le nucléaire comme "énergie d'utilité publique"<sup>1</sup>. Il prévoit dès lors de faire monter la part du nucléaire à 20% de son mix énergétique<sup>2</sup>, en commençant par la réouverture de la centrale de Sendai, et ce alors que 55% des Japonais se sont prononcés contre cette réouverture<sup>3</sup>. Un développement des énergies renouvelables est également prévu à hauteur de 20% du mix énergétique.<sup>4</sup>\
 En France, comme partout en Europe, partis écologistes et associations (Greenpeace, WWF, ...) militent ensemble pour une sortie du nucléaire, pendant que la centrale de Fesseinheim est en cours de démantellement. La France suit ainsi le chemin de l'Allemagne, qui a fermé l'essentiel de ses centrales nucléaires pour les remplacer par des énergies renouvelables et des centrales au charbon et au gaz.
 
 ## Remplaçons le nucléaire par de l'éolienne
@@ -99,6 +100,9 @@ Défendre le nucléaire, ce n'est pas défendre une augmentation de la productio
 
 ## Sources
 
+2. [Le Japon maintient un objectif de 20 – 22 % de nucléaire en 2030 *(RNG - Revue Générale du Nucléaire)*](https://www.sfen.org/rgn/japon-maintient-objectif-20-22-nucleaire-2030)
+3. [55% oppose restarting nuclear reactors, 26% in favor: Mainichi survey *(The Mainichi)*](https://mainichi.jp/english/articles/20170313/p2a/00m/0na/006000c)
+4. [Le Japon espère que le nucléaire assurera plus de 20 % de sa production d'électricité en 2030 *(Les Echos)*](https://www.lesechos.fr/2018/07/le-japon-espere-que-le-nucleaire-assurera-plus-de-20-de-sa-production-delectricite-en-2030-997932)
 5. [Le nucléaire en chiffres *(EDF - Energie de France)*](https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/le-nucleaire-en-chiffres)
 6. [La consommation d'électricité en chiffres *(EDF)*](https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/le-developpement-durable/la-consommation-d-electricite-en-chiffres)
 7. [Wind energy in Europe in 2019 *(Wind Europe)*](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2019.pdf)
@@ -112,16 +116,16 @@ Défendre le nucléaire, ce n'est pas défendre une augmentation de la productio
 15. [The Other Report on Tchernobyl (TORCH)](http://www.chernobylreport.org/torch.pdf)
 16. [Chernobyl death toll grossly underestimated *(Greenpeace - Archive)*](https://wayback.archive-it.org/9650/20200502081113/http://p3-raw.greenpeace.org/international/en/news/features/chernobyl-deaths-180406/)
 17. [Tchernobyl: L'ampleur réelle de l'accident *(OMS - Organisation Mondiale de la Santé)*](https://www.who.int/mediacentre/news/releases/2005/pr38/fr/)
-18. [Estimates of the cancer burden in Europe from radioactive fallout from the Chernobyl accident](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijc.22037)
+18. [Estimates of the cancer burden in Europe from radioactive fallout from the Chernobyl accident *(Elisabeth Cardis & Co)*](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijc.22037)
 19. [573 deaths 'related to nuclear crisis' *(Daily Yomiuri)*](https://www.nrc.gov/docs/ML1234/ML12340A564.pdf)
 20. [Séisme de 2011 de la côte Pacifique du Tōhoku *(Wikipédia)*](https://fr.wikipedia.org/wiki/S%C3%A9isme_de_2011_de_la_c%C3%B4te_Pacifique_du_T%C5%8Dhoku#cite_note-6)
-21. [Worldwide health effects of the Fukushima Daiichi nuclear accident](https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22019a#!divAbstract)
-22. [The radiological and psychological consequences of the Fukushima Daiichi accident](https://journals.sagepub.com/doi/full/10.1177/0096340211421588)
+21. [Worldwide health effects of the Fukushima Daiichi nuclear accident *(John E. Ten Hoevea & Mark Z. Jacobson)*](https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22019a#!divAbstract)
+22. [The radiological and psychological consequences of the Fukushima Daiichi accident *(Frank N. von Hippel)*](https://journals.sagepub.com/doi/full/10.1177/0096340211421588)
 23. [Barrage de Banqiao *(Wikipédia)*](https://fr.wikipedia.org/wiki/Barrage_de_Banqiao)
 24. [What are the safest sources of energy *(Our World in Data)*](https://ourworldindata.org/safest-sources-of-energy)
 25. [Entreposage du combustible nucléaire usé : Concepts et enjeux de sûreté *(IRSN)*](https://www.irsn.fr/FR/expertise/rapports_expertise/surete/Pages/Rapport-IRSN-2018-00003-entreposage-combustible-use.aspx#.XYN_EygzaUl)
-26. [Characteristics and Dose Levels for Spent Reactor Fuels](https://www.researchgate.net/publication/238613298_Characteristics_and_Dose_Levels_for_Spent_Reactor_Fuels)
-27. [Déchets: Le risque limité du stockage géologique *(RGN - Revue Générale du Nucléaire)*](https://www.sfen.org/rgn/dechets-risque-limite-stockage-geologique)
+26. [Characteristics and Dose Levels for Spent Reactor Fuels *(C. W. Coates & B. L. Broadhead)*](https://www.researchgate.net/publication/238613298_Characteristics_and_Dose_Levels_for_Spent_Reactor_Fuels)
+27. [Déchets: Le risque limité du stockage géologique *(RGN)*](https://www.sfen.org/rgn/dechets-risque-limite-stockage-geologique)
 28. [Les ressources mondiales d'uranium *(IAEA)*](https://www.iaea.org/sites/default/files/23204891014_fr.pdf)
 29. [World uranium mining production *(World Nuclear Association)*](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production.aspx)
 30. [Le combustible nucléaire : une ressource infinie ? *(RGN)*](https://www.sfen.org/rgn/combustible-nucleaire-ressource-infinie)
@@ -134,4 +138,4 @@ Publication: 05/04/2021
 
 ### 1.0.1
 
-* Corrections de fautes de frappes et d'orthographes
+* Corrections de fautes de frappe et d'orthographe
