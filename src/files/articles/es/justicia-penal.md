@@ -1,8 +1,8 @@
 ---
 title: La justicia penal
 subjects: justicia, derecho, moralidad, filosofia
-slug: justice-penale
-lang: fr
+slug: justicia-penale
+lang: es
 date: 2021-05-04T18:00+00:00
 ---
 

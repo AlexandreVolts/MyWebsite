@@ -76,7 +76,6 @@ Lorsque la justice intervient pour un acte donné, il est déjà nécessairement
 La justice est nécessaire à une société, cependant n'oublions pas qu'elle agit à posteriori et non a priori. Elle ne peut donc prévenir aucun acte, mais pourrait, une fois les actes jugés, tenter créer des conditions de vie aux détenus qui lui permettent d'éviter à nouveau un passage à l'acte, par la mise en place de structures de soutien psychologique et de préparation à la réinsertion. Le mauvais traitement des détenus favorise leur récidive/réitération.\
 Si la justice et la loi sont des outils nécessaires, ils ne devraient pas servir d'outil permettant aux responsables politiques de répondre à une hausse de l'insécurité artificielle, mais à un sentiment d'insécurité bien réel.
 
-
 ## Sources
 
 1. [Prévention de la récidive et individualisation des peines - Chiffres clés *(Ministère de la justice)*](http://www.justice.gouv.fr/include_htm/reforme_penale_chiffres_cles_plaquette.pdf)
