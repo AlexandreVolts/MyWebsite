@@ -45,6 +45,7 @@ h1 a {
     position: absolute;
     background-color: white;
     margin-top: 15px;
+    z-index: 1;
 }
 .submenu a {
     display: block;
