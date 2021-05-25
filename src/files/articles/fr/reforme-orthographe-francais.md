@@ -89,32 +89,33 @@ Exemples: hibou<u>s</u>, chevau<u>s</u>, cheveu<u>s</u>, bateau<u>s</u>, seau<u>
 Exemples: é<u>t</u>ique, <u>ré</u>torique, <u>f</u>iloso<u>f</u>ie, <u>f</u>ilan<u>tr</u>ope, <u>ri</u>nocéros, a<u>sm</u>e, <u>f</u>armacie, <u>f</u>oque, <u>té</u>, <u>i</u>drolique, ...\
 Exemples: c<u>i</u>gne, c<u>i</u>cle, acol<u>i</u>te, st<u>i</u>le, et<u>i</u>mologie, <u>_</u>élice, ...
 
-*Note: Tous ces mots ne viennent pas forcément du grec, pour autant la suppression des -h et et des -y inaudibles pourrait être faite sur tous les mots.*\
-Cette suppression peut être tempérée si on tient à l'étymologie. Pour autant, il est parfaitement possible de continuer à retrouver les étymologies des mots tout en changeant leur orthographe. Par exemple, le fait d'écrire la lettre grecque "phi" avec un ph est arbitraire et pourrait tout autant être écrite "fi", ce n'est qu'un code graphique, qui ne retire rien aux étymologies des mots.
+*Note: Tous ces mots ne viennent pas forcément du grec, pour autant la suppression des -h et et des -y inaudibles pourrait être faite sur tous les mots.* \
+Cette suppression peut être tempérée si on tient à conserver l'étymologie. Pour autant, il est parfaitement possible de continuer à retrouver les étymologies des mots tout en changeant leur orthographe. Par exemple, le fait d'écrire la lettre grecque "phi" avec un ph est arbitraire et pourrait tout autant être écrite "fi", ce n'est qu'un code graphique, qui ne retire rien aux étymologies des mots.
 
 #### Suppression des doubles consonnes lorsqu'elles n'influent pas sur la prononciation
 
-Il est également possible de rajouter un accent dans le cas de la suppression d'une double-consonne suivant un e.
-Exemples: co<u>m</u>e, po<u>m</u>e, a<u>p</u>eler, co<u>n</u>ecter, <u>_</u>o<u>m</u>e, f<u>am</u>e, a<u>p</u>rendre, vi<u>l</u>e, p<u>èl</U>e, lun<u>èt</u>e, o<u>f</u>ici<u>è</u>le, fourch<u>è</u>te, ...
+Il est également possible de rajouter un accent dans le cas de la suppression d'une double-consonne suivant un e.\
+Exemples: co<u>m</u>e, po<u>m</u>e, a<u>p</u>eler, co<u>n</u>ecter, <u>_</u>o<u>m</u>e, f<u>am</u>e, a<u>p</u>rendre, vi<u>l</u>e, p<u>èl</U>e, lun<u>èt</u>e, o<u>f</u>ici<u>è</u>le, fourch<u>è</u>te, ...\
 
 Exemples de mots non modifiés: Travailler, laisser, cesser, accès, ...
 
 *Note: Une exception peut être fait pour des mots dont l'usage est très répandu: elle, celle, cette, quelle, ...*
 
 #### Suppression des terminaisons inaudibles
-La suppression des terminaisons inaudibles se ferait sur tous les mots sauf à deux exceptions le -s comme marque du pluriel, et si la terminaison permet d'indiquer l'accord du genre (notamment les participes passés et les adjectifs). Elle entraîne de fait une perte de genre d'une partie des adjectifs et des noms: Tous les mots qui s'accordent en genre avec une terminaison en -e inaudibles n'existent plus et deviennent d'un nouveau genre grammatical: le genre neutre. Une partie de l'écriture inclusive devient caduque avec la neutralisation du genre des mots.\
-La conjugaison est également impactée: Plus de -s pour les conjugaisons de la deuxième personne du singulier (tu) du présent et du futur de l'indicatif ainsi qu'au subjonctif, plus de -s ou de -t sur l'imparfait de l'indicatif pour les personnes du singulier (je, tu, il, elle, on), et d'autres terminaisons disparaissent sur de nombreux temps. Le -s pourrait être conservé pour la première personne du pluriel (nous) et être étendu à la troisième personne du pluriel (ils), en lieu et place du -ent, de telle sorte à créer un harmonisation des pluriels en -s sur toute la langue française (exception faite à la deuxième personne du pluriel).\
-Tu voyai<u>-</u> des voitures ble<u>us</u>, un <u>mo-</u> intéressan<u>t</u>, je les a<u>p</u>réciai<u>_</u> car elles étai<u>s</u> de grandes am<u>is</u>, ...
+La suppression des terminaisons inaudibles se ferait sur tous les mots sauf à deux exceptions: le -s comme marque du pluriel, et si la terminaison permet d'indiquer l'accord du genre (notamment les participes passés et les adjectifs). Elle entraîne de fait une perte de genre d'une partie des adjectifs et des noms: Tous les mots qui s'accordent en genre avec une terminaison en -e inaudibles n'existent plus et deviennent d'un nouveau genre grammatical: le genre neutre. Une partie de l'écriture inclusive devient caduque avec la neutralisation du genre des mots.\
+La conjugaison est également impactée: Plus de -s pour les conjugaisons de la deuxième personne du singulier (tu) du présent et du futur de l'indicatif ainsi qu'au subjonctif, plus de -s ou de -t sur l'imparfait de l'indicatif pour les personnes du singulier (je, tu, il, elle, on), et d'autres terminaisons disparaissent sur de nombreux temps. Le -s pourrait être conservé pour la première personne du pluriel (nous) et être étendu à la troisième personne du pluriel (ils), en lieu et place du -ent, de telle sorte à créer un harmonisation des pluriels en -s sur toute la langue française (exception faite à la deuxième personne du pluriel, qui conserve son -ez).\
+Tu voyai<u>-</u> des voitures ble<u>us</u>, un <u>mo-</u> intéressan<u>t</u>, je les a<u>p</u>réciai<u>-</u> car elles étai<u>s</u> de grandes am<u>is</u>, ...
 
-[Relire cet article avec l'application de la réforme précédente](/tzm/articles/reforme-ortografe-francai)
+[Relire cet article avec l'application de la réforme](/tzm/articles/reforme-ortografe-francai)
 
 ## Sources
 1. [L'histoire de l'Académie Française *(Académie Française)*](http://www.academie-francaise.fr/linstitution/lhistoire)
 2. [Editions du dictionnaire de l'Académie Française *(Académie Française)*](http://www.academie-francaise.fr/le-dictionnaire/la-9e-edition)
 3. [ Taux d'illéttrisme en France *(Agence Nationale de la Lutte Contre L'Illéttrisme (ANLCI))*](http://www.anlci.gouv.fr/Illettrisme/Les-chiffres/Niveau-national)
 4. [Carte de l'illéttrisme *(ANLCI)*](http://www.anlci.gouv.fr/En-region)
-5. [ Literacy in the Information Age *(OCDE)*](https://www.oecd.org/education/skills-beyond-school/41529765.pdf)\
+5. [ Literacy in the Information Age *(OCDE)*](https://www.oecd.org/education/skills-beyond-school/41529765.pdf)
 *Note: Les résultats de l'étude n'ont pas été publiés en France, car les autorités publiques avaient un doute sur la validité des résultats. Ainsi, la France est absente de l'étude finale réalisée par l'OCDE car elle s'est retirée de l'enquête après la parution des premiers résultats.*
+
 6. [Horaires d'enseignement des écoles maternelles et élémentaires *(Ministère de l'éducation nationale, de la jeunesse et des sports)*](https://www.education.gouv.fr/bo/15/Hebdo44/MENE1526553A.htm) 
 7. [Apprentissage du français dans le monde: Etat des lieux et tendances *(Organisation International de la Francophonie (OIF).*](http://observatoire.francophonie.org/wp-content/uploads/2018/11/Apprentissage-Etat-des-lieux-tendances.pdf)
 8. [Glossariu care coprinde vorbele d'in limb'a româna *(Archive)*](https://archive.org/details/glossariucareco00massgoog)

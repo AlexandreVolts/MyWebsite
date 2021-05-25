@@ -60,8 +60,7 @@ Ces monnaies locales seraient également "fondantes", c'est-à-dire qu'elles per
 Le bancor européen est probablement l'idée la plus irréaliste au regard du contexte actuel. Elle est pourtant celle qui permettrait de résoudre au mieux les problèmes posés par l'Euro sans pour autant nuire ni à la construction européenne, ni à la souveraineté des États. Avant de parler de l'idée du bancor Européen, parlons du triangle d'incompatibilité de Mundell<sup>10</sup>.
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Triangle_d%27incompatibilit%C3%A9.svg/1280px-Triangle_d%27incompatibilit%C3%A9.svg.png"
-    alt="Triangle d'incompatibilité de Robert Mundell"
-    width="50%" />
+    alt="Triangle d'incompatibilité de Robert Mundell" />
     <figcaption>Triangle d'incompatibilité développé par Robert Mundell et Marcus Flemming dans les années 1960. (Source: Wikipédia)</figcaption>
 </figure>
 

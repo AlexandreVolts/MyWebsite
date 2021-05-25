@@ -16,29 +16,28 @@ L'objectif de la loi, une fois qu'on a définit ce qui était moral, c'est que l
 Juste avant les débats sur l'abolition de la peine de mort, en France, l'un des arguments en faveur de son maintien était le caractère dissuasif de la peine. On craignait alors que supprimer cette peine entrainerait une hausse de la criminalité, puisqu'il qu'on ne dissuaderait plus assez ceux qui seraient tentés de commettre les actes les plus immoraux. Un "ensauvagement", en somme. Pourtant, dans les années qui suivirent son abolition (en 1981), le nombre de crimes auparavant punits de peine de mort n'a pas augmenté.
 <figure>
     <img src="https://www.alternatives-economiques.fr/sites/default/files/public/media/20090501/A280060E.GIF"
-    alt="Nombre d'homicides volontaires pour 100 000 habitants"
-    width="50%" />
-    <figcaption>Evolution du nombre d’homicides et de tentatives d’homicides (Source: ALternatives Economiques)</figcaption>
+    alt="Nombre d'homicides volontaires pour 100 000 habitants" />
+    <figcaption>Evolution du nombre d’homicides et de tentatives d’homicides (Source: Alternatives Economiques)</figcaption>
 </figure>
 
 Cela peut s'expliquer par un simple fait: commettre un acte illégal (et plus spécifiquement, un crime) ne dépend pratiquement jamais d'un calcul rationnel de l'individu, et quasiment toujours d'une "nécessité immédiate". Par nécessité, il est entendu ici que ce n'est pas l'individu qui épprouverait soudainement le besoin de commettre un acte illégal, mais qu'une somme de causes et de conséquences pesant sur l'individu l'ont amené à une situation où l'acte pouvait "logiquement" se produire. Ces causes dépassent toujours le cadre dissuasif des peines que l'on peut encourir.
 
-## L'emprisonnement et la récidive/réitération
+## L'emprisonnement et la récidive|réitération
 
 Pour prouver le raisonnement selon lequel un acte illégal ne relève pas d'un calcul rationnel, regardons la peine la plus utilisée lors des condamnations pour des délits et des crimes: L'emprisonnement, accompagné d'une amende. La logique dissuasive voudrait encore une fois que les détenus vivent dans des conditions de détention insalubles et que leur traitement soit de l'ordre du service minimum. L'objectif est, à terme, de faire comprendre à l'individu la dureté de la vie en prison pour le dissuader de recommencer. Pourtant, en France, ce sont près de 60% des détenus qui récidivent ou réitèrent dans les cinq années après leur libération<sup>1</sup>. Peut-être que la peine n'était-elle pas assez dure ? Le problème est peut-être ailleurs.\
-Lors d'un séjour en prison, un détenu a de nombreuses chances de perdre son emploi, donc sa source de revenu, et, à terme, son logement. Il peut ensuite subir le jugement d'une partie de ses proches, de ses amis ou de sa famille. S'ajoute à cela que l'amende infligée au détenu le crible d'une dette qu'il lui est difficile de rembourser dans des conditions où il n'a pas de source de revenus. Au delà d'être le terreau fertile d'une précarité autant économique que sociale qui favorise la récidive ou la réitération, la prison génère de nombreux problèmes de santés chez les détenus: En 2014, 40% souffraient d'un syndrôme dépressif, 38% des détenus souffraient d'une addiction à une drogue, et 33% d'une anxiété généralisée.<sup>1</sup>\
+Lors d'un séjour en prison, un détenu a de nombreuses chances de perdre son emploi, donc sa source de revenu, et, à terme, son logement. Il peut ensuite subir le jugement d'une partie de ses proches, de ses amis ou de sa famille. S'ajoute à cela que l'amende infligée au détenu le crible d'une dette qu'il lui est difficile de rembourser dans des conditions où il n'a pas de source de revenus. Au delà d'être le terreau fertile d'une précarité autant économique que sociale qui favorise la récidive ou la réitération, la prison génère de nombreux problèmes de santés chez les détenus: En 2014, 40% souffraient d'un syndrôme dépressif, 38% des détenus souffraient d'une addiction à une drogue, et 33% d'une anxiété généralisée<sup>1</sup>.\
 Ainsi, une fois qu'il est sorti de prison, le détenu se retrouve dans une situation délicate, autant psychologiquement que socialement ou économiquement. Il devra justifier d'un trou dans son parcours professionnel qui peut lui fermer de nombreuses portes et l'enfermer dans une précarité, qui à terme peut engendrer un nouveau passage à l'acte. En somme, la prison favorise la récidive et la réintération au lieu de la combattre efficacement.
 
 ## Le traitement médiatique des affaires judiciaires
 
 Les affaires judiciaires ne sont en princique que très peu intéressantes pour le commun des mortels. Du fait de ce désintérêt, les décisions de justice des tribunaux sont souvent très mal comprises. Ce phénomène s'aggrave par le caractère sensationaliste dont font preuve les médias lorsqu'ils doivent traiter des faits divers.
 
-### 1) Le mythe du grand méchant criminel
+#### 1) Le mythe du grand méchant criminel
 
 Expliquer les causes et le contexte d'un délit ou d'un crime et le passé d'un délinquant est inintéressant et nécessite un travail d'investigation supplémentaire que peu de journalistes sont prêts à faire, puisque cela ne contribue pas à maintenir l'attention du spectateur. Alors on se focalyse sur l'acte en soi, et sur l'émotion des victimes. A terme, on crée une image de "criminel monstrueux" qui appuie davantage sur un aspect superficiel et sensationaliste. L'image de "monstre" crée aussi une distanciation entre le public du média et le criminel: En privant le criminel de son humanité, on le transforme en un "criminel par nature", bien plus qu'un criminel "produit par la société".\
 Pourtant, personne n'est prédisposé à la criminalité par nature, il existe de nombreuses causes et des schémas de génération de la délinquance et de la criminalité. Cependant, mettre en lumière ces schémas montrerait probablement les défaillances de nos sociétés, et tout le monde n'est pas prêt à les admettre. D'autant plus que cela suppose également l'idée que n'importe qui, dans certaines conditions matérielles d'existence, peut devenir un criminel, ce qui peut être une pensée insupportable à admettre pour certains. La déshumanisation crée chez les individus des mécanismes de détestation et de haine des criminels et délinquants permettent de se prémunir de telles pensées.
 
-### 2) La sumédiatisation des affaires judiciaires
+#### 2) La sumédiatisation des affaires judiciaires
 
 Au regard des données sur le taux de criminalité, on observe une baisse quasiment constante depuis le début des années 2000. Pourtant, le traitement des faits divers dans les médias n'a cessé d'augmenter, et se sont multipliées les émissions et rubriques qui ont fait du crime ou de la délinquance leur spécialité. Les médias quittent alors leur rôle d'information et deviennent des loupes grossisantes sur des phénomènes qui ont tendance à s'atténuer. La surreprésentation des affaires judiciaires expose les individus à une réalité déformée, qui crée chez eux un sentiment d'insécurité dans une situation de plus en plus sûre.\
 Cela peut les amener à adhérer à des politiques davantage "sécuritaires" et donc davantage répressive. Les responsables politiques, pour divers motifs, se retrouvent alors à durcir les peines encourrues et à légifier sur des cas déjà couverts par le droit actuel, créant un allourdissement inutile du droit pénal français. Ils répondent, ce faisant, à un besoin d'excès de sécurité des citoyens qui se sentent artificiellement en danger.
@@ -48,8 +47,7 @@ Cela peut les amener à adhérer à des politiques davantage "sécuritaires" et 
 La société de consommation a été un facteur déterminant dans la hausse du taux de criminalité. Avant le milieu des années 1970, le taux de criminalité en France est très bas. Il monte ensuite très rapidement car l'accès à une vaste gamme de produit permis par la société de consommation fait que chaque personne dispose d'un nombre beaucoup plus important de bien que ce dont il disposait avant. Cela fait autant de biens supplémentaires qui peiuvent être volés. Le taux de criminalité en France a certe connu une hausse fulgurante, mais elle était essentiellement portée par le nombre de vols réalisés.
 <figure>
     <img src="https://www.alternatives-economiques.fr/sites/default/files/public/media/20100701/A293041B.GIF"
-    alt="Evolution du taux de criminalité, par type de crimes et délits constatés pour 10 000 habitants"
-    width="50%" />
+    alt="Evolution du taux de criminalité, par type de crimes et délits constatés pour 10 000 habitants" />
     <figcaption>Evolution du taux de criminalité, par type de crimes et délits constatés pour 10 000 habitants (Source: Alternatives économiques)</figcaption>
 </figure>
 
@@ -93,6 +91,6 @@ Si la justice et la loi sont des outils nécessaires, ils ne devraient pas servi
 
 * Fin de rédaction de la première version, cependant des données sont manquantes concernant le profil des délinquants et des voleurs.
 
-## 1.1.0 (19/05/2021)
+### 1.1.0 (19/05/2021)
 
 * Ajout d'une partie: *Une vision plus large de la criminalité: L'essentialisme et le constructivisme*

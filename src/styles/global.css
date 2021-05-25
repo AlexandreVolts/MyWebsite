@@ -10,3 +10,6 @@ ul {
 body {
     font-family: "Rotobo";
 }
+a {
+    text-decoration: none;
+}
