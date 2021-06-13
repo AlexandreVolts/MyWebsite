@@ -99,6 +99,9 @@
     }
 }
 @media (max-width: 1280px) {
+    .article-content {
+        margin: auto;
+    }
     .article-menu {
         display: none;
     }

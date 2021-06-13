@@ -39,10 +39,15 @@ h1 a {
     padding-top: 15px;
     background-color: #ecf0f1;
 }
+.menu-button:hover .submenu {
+    display: block;
+}
 .submenu {
+    display: none;
     position: absolute;
     background-color: white;
-    margin-top: 15px;
+    margin-left: -20px;
+    margin-top: 20px;
     z-index: 1;
 }
 .submenu a {

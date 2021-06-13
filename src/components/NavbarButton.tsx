@@ -9,7 +9,6 @@ interface NavbarButtonProps
 }
 export default function NavbarButton(props:NavbarButtonProps)
 {
-    const [isOver, setIsOver] = React.useState(false);
     const renderSubmenu = (content:any, index:number) => {
         const article = content.node.frontmatter;
         
@@ -28,15 +27,12 @@ export default function NavbarButton(props:NavbarButtonProps)
     };
 
     return (
-        <li
-            className="menu-button"
-            onClick={() => setIsOver(!isOver)}
-        >
+        <li className="menu-button">
             {props.name}
             <AnimatePresence>
-                {isOver && <ul className="submenu">
+                <ul className="submenu">
                     {props.data.map(renderSubmenu)}
-                </ul>}
+                </ul>
             </AnimatePresence>
         </li>
     );

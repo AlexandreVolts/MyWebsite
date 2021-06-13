@@ -35,12 +35,12 @@ export default function ArticleDetails({ data })
             <ul className="article-menu">
                 { generateHeaders() }
             </ul>
-            <div className="article-content">
+            <div className={"article-content" + (isDyslexicModeEnabled ? " dyslexic" : "")}>
                 <div className="dyslexic-mode">
                     <span>Mode dyslexique</span>
                     <Switch
                         className="dyslexic-toggle"
-                        onChange={(checked:boolean) => setIsDyslexicModeEnabled(checked)}
+                        onChange={(checked:boolean) => { setIsDyslexicModeEnabled(checked)}}
                         checked={isDyslexicModeEnabled}
                         uncheckedIcon={false}
                         checkedIcon={false}
