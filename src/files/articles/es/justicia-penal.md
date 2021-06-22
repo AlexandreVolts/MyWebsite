@@ -18,7 +18,7 @@ El objetivo de la ley, después que hemos definido lo que era moral es que las p
 
 Justo antes de los debates sobre la abolición de la pena de muerte en Francia, uno de los argumentos a favor de su mantenimiento fue el carácter disuasorio de la pena. Se temía entonces que la eliminación de esta pena condujera a un aumento de la delincuencia, ya que ya no disuadiría lo suficiente a quienes se verían tentados a cometer los actos más inmorales. En resumen, una "locura". Sin embargo, en los años posteriores a su abolición (en 1981), el número de delitos anteriormente castigados con la muerte no ha aumentado.
 <figure>
-    <img src="http://www.observationsociete.fr/wp-content/uploads/2018/12/homicidetaux.jpg"
+    <img src="/articles/homicides.jpg"
     alt="Número de homicidios intencionales por cada 100.000 habitantes"
     width="50%" />
     <figcaption>Evolución de la tasa de homicidio intencional por 100.000 habitantes (Fuente: Centre d'observation de la société)</figcaption>
