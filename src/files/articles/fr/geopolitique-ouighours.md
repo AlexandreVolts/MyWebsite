@@ -8,14 +8,14 @@ date: 2021-02-02T19:33+00:00
 
 # Ouïghours et géopolitique
 
-Ethnie présente dans de nombreux pays d'Asie s'étendant de l'Asie centrale jusqu'à la Chine, à majorité musulmane sunnite, la plupart de Ouïghours se trouvent en Chine, dans la région autonome du Xinjiang. La région a une très faible densité de population en comparaison du reste du pays, puisqu'elle est la plus grande région chinoise avec seulement 25 millions d'habitants<sup>1</sup>. La région est un enjeu géostratégique majeur pour la Chine, du fait de ses nombreuses ressources énergétiques<sup>2</sup>: elle fournit un tiers de la consommation de gaz du pays, dispose de 40% des réserves de charbon, et s'y trouve le plus grand gisement d'uranium de Chine. Le Xinjiang est d'autant plus stratégique qu'il est le point de départ du projet des Nouvelles Routes de la Soie chinoises<sup>3</sup>.
-Parmi les 56 ethnies présentes sur son territoire, les Ouïghours sont majoritaires et occupent 50% de la population, devant les Hans, qui composent 40% de la population régionale<sup>4</sup>.\
+Ethnie présente dans de nombreux pays d'Asie s'étendant de l'Asie centrale jusqu'à la Chine, à majorité musulmane sunnite, la plupart de Ouïghours se trouvent en Chine, dans la région autonome du Xinjiang. La région a une très faible densité de population en comparaison du reste du pays, puisqu'elle est la plus grande région chinoise avec seulement 22 millions d'habitants<sup>1</sup>. La région est un enjeu géostratégique majeur pour la Chine, du fait de ses nombreuses ressources énergétiques: elle fournit un tiers de la consommation de gaz du pays, dispose de 40% des réserves de charbon, et s'y trouve le plus grand gisement d'uranium de Chine<sup>1</sup>. Le Xinjiang est d'autant plus stratégique qu'il est le point de départ du projet des Nouvelles Routes de la Soie chinoises<sup>2</sup>.
+Parmi les 56 ethnies présentes sur son territoire, les Ouïghours sont majoritaires et occupent 50% de la population, devant les Hans, qui composent 40% de la population régionale.\
 Ils seraient victimes de répressions très fortes de la part de la Chine, internés dans des camps d'internement, stérilisés, torturés, constamment surveillés<sup>5</sup>, ... Certains n'hésitent pas à parler de génocide. Que se passe-t-il vraiment au Xinjiang ?
 
 ## Le contexte
 
-Le terrorisme en Chine s'est massifié, et le pays a ainsi connu près de 200 attentats depuis une trentaire d'années<sup>8</sup>. Ces attentats sont pour l'essentiel revendiqués par des organisations Al Quaïda, par l'ETIM (East Turkistan Islamic Movement) ou le PIT (Parti Islamique du Turkestan) et perpetré par des Ouïghours radicalisés par le biais de ces mêmes organisations.\
-En réponse à la massification du terrorisme en Chine, le gouvernement a mis en place une politique très violente et représsive à l'égard de la minorité Ouïghoure. En quoi consiste cette politique ?
+Le terrorisme en Chine s'est massifié, et le pays a ainsi connu près de 200 attentats depuis une trentaire d'années<sup>8</sup>. Ces attentats sont pour l'essentiel revendiqués par des organisations Al Quaïda, par l'ETIM (East Turkistan Islamic Movement) ou le PIT (Parti Islamique du Turkestan) et perpetré par des Ouïghours radicalisés par le biais de ces mêmes organisations, le plus souvent avec des revendications indépendantistes.\
+En réponse à la massification du terrorisme en Chine, le gouvernement a mis en place une politique très représsive à l'égard de la minorité Ouïghoure. En quoi consiste cette politique ?
 
 ## Génocide et stérilisation forcée au Xinjiang
 
@@ -33,13 +33,18 @@ Certains diront que cet investissement et les autres servent justement à la st�
 ## Les camps de concentration
 
 Si la Chine ne commet pas de génocides à l'égard des Ouïghours, l'on pourrait cependant parler des 1.5 millions de Ouïghours détenus dans des camps d'internements<sup>11</sup>. Dans ces camps, les détenus seraient victime de crimes contre l'humanité, et seraient insultés, torturés et surveillés<sup>12</sup>. Ces informations proviennent du CERD (Committee on the Elimination of Racial Discrimination), de HRW (Human Right Watch), et d'autres ONG internationales, elles-mêmes provenant de témoignages et d'un éminent spécialiste du sujet: Adrian Zenz. Ces informations sont ensuite relayées abondamment et diffusées dans les médias (essentiellement occidentaux). Suite à ces révélations, 22 pays occidentaux ont attaqué la Chine et lui ont demandé de cesser immédiatement ses activités d'internement des minorités ethniques. Ce à quoi une coalition de 54 pays ont réagit en rappelant le caractère infondé de telles accusations<sup>7, 14</sup>. Ces derniers accusent les pays occidentaux (et spécifiquement les États-Unis) d'instrumentaliser et de politiser les droits humains.
-> La Chine a invité des diplomates qui le souhaitaient, des organisations internationales et des journalistes [à venir se rendre] au Xinjiang.\
-> (???)
+> La Chine a invité des diplomates qui le souhaitaient [à venir se rendreau Xinjiang] pour observer les progrès dans la région, [nous] condamnons les médias occidentaux qui publient des informations non confirmées sans visiter la région.\
+> Représentant de la coalition des 54 pays soutenant la Chine à l'ONU<sup>7</sup>
 
-La grande majorité des observateurs occidentaux ont décliné cette invitation<sup>15</sup>. Les délégations des pays qui se sont rendus au Xinjiang rapportent
+Les délégations des pays qui se sont rendus au Xinjiang rapportent
 > Ce qu'ils ont vu et entendu au Xinjiang contredisait complètement ce qui était rapporté dans les médias. [...] Des progrès remarquables ont été accomplis [par la Chine] en ce qui concerne les droits humains. Le Xinjiang a retrouvé sa sûreté et sa sécurité et les droits humains fondamentaux sont préservés.\
-> (???)
+> *(ibid.)*
 
+Wang Wenbin, porte parole du Ministère des affaires Chinois, ajoute:
+> Nous accueillons toujours favorablement des amis du monde entier, y compris du côté européen, à visiter le Xinjiang et voir de leurs propres yeux la situation réelle là-bas, au lieu de croire les mensonges fabriqués [par les médias]. Les envoyés diplomatiques de l'UE [...] ont déclaré qu'ils souhaitaient visiter le Xinjiang. La Chine l'a accepté et est prête à prendre les dispositions à cet effet. La balle est désormais dans le camp de la partie européenne. Dans le même temps, je dois souligner que nous nous opposons à tout eenquête avec présomption de culpabilité.
+> Wang Wenbin, porte parole du Ministère des affaires Chinois (Conférence de presse à Beijing; 15 Septembre 2020)
+
+Les autorités européennes n'ont pas souhaité répondre pour l'instant.\
 Supposons que les affirmations des délégations de ces 54 pays à l'ONU soient malgré tout fausses, et qu'elles proviennent de pays dont les régimes peu démocratiques rendraient plus facile l'acceptation de ce qu'il se passe au Xinjiang. Ou supponsons que, les observateurs de ces pays ont été soignesement guidées par les autorités chinoises afin de contourner les camps problématiques. Dans ce cas, nous pourrions parler de la Banque Mondiale, qui a accordé un prêt de 50 millions de dollars à la Chine pour la construction de cinq collèges professionnels publics en 2015, directement reliés à ces camps. Elle a été sollicitée en 2019 sur la possibilité que ses fonds soient utilisés pour construire des camps de concentration dans lesquels seraient internés les Ouïghours<sup>16</sup>.  Elle a alors dépêché une équipe de cadres supérieurs chargée de vérifier que le projet initial de centres de formations professionnelles soit mené à bien.
 > L'équipe a procédé à un examen approfondi des documents du projet [...] et a visité les écoles directement financées par le projet ainsi que les écoles partenaires faisant l'objet l'allégations. L'examen n'a pas corroboré ces allégations. [...] Le projet sera placé sous une supervision renforcée pour s'assurer que toutes les normes applicables de la banque mondiale sont appliquées.\
 > Banque Mondiale<sup>17, 18</sup> (2019)
@@ -109,23 +114,21 @@ Pourtant, les puissances musulmanes ne se contentent pas de rester passives face
 En second lieu, il convient de se placer du point de vue des pays musulmans plutôt que des pays occidentaux: en quoi à consisté la lutte contre le terrorisme des pays occidentaux ? Elle a consisté en une invasion et une occupation militaire accompagnées de bombardements réguliers sur les pays qu'on a estimé être des "foyers du terrorisme", faisant au moins deux millions de morts dans la région<sup>20</sup>. Ainsi, même à supposer que la Chine interne des millions de Ouïghours et qu'elle mène un génocide culturel, cela resterait bien moins traumatisant pour les pays musulmans que ce que l'occident leur a fait subir. Durant les invasions militaires, les États-Unis sont devenus l'ennemi principal de ces pays. La Chine leur apparaît donc comme un partenaire largement préférable et bien moins brutal, d'autant plus qu'ils partagent un certain anti-impérialisme américain.\
 Il existe, enfin, une dernière raison pour laquelle les pays musulmans soutiennent la politique chinoise des Ouïghours: ces pays sont ceux qui souffrent le plus des attentats terroristes<sup>31</sup> (particulièrement l'Afghanistan, le Pakistan, la Syrie et l'Irak). On l'oublie souvent, mais les instabilités politiques générées par le terrorisme dans ces pays nuisent à leur développement. Ces pays ayant pu envoyer des délégations de diplomates au Xinjiang, ils y ont vu, pour rappel:
 > Des progrès remarquables [...] en ce qui concerne les droits humains. Le Xinjiang a retrouvé sa sûreté et sa sécurité et les droits humains fondamentaux sont préservés.\
-> (???)
+> Représentant de la coalition des 54 pays soutenant la Chine à l'ONU<sup>7</sup>
 
 Ils perçoivent donc la Chine comme un modèle dans la lutte contre le terrorisme et dans sa politique de déradicalisation. Certes, cette politique est dure et répressive, et elle porte atteinte aux libertés fondamentales, mais elle reste plus fructueuse et prometteuse pour les pays musulmans. Elle leur permettrait potentiellement de lutter efficacement contre le terrorisme, en comparaison de l'inefficacité des politiques occidentales dans la région.
 
 ## Conclusion
 
 Voici donc ce qu'implique le traitement médiatique de la politique chinoise concernant les Ouïghours: au délà d'être une affaire humanitaire, dénoncer la Chine, que ce soit avéré ou non, est une affaire géostratégique majeure qui vise à affaiblir le pouvoir chinois et préserver l'hégémonie occidentale. On l'a vu, les médias et ONG occidentaux ne font pas preuve de prudence concernant les données à leur disposition, font des affirmations âtives couplées à des spéculations. Notons bien: il est *possible* qu'une partie de ces spéculations soient vraies, mais nous n'avons pas les données pour affirmer leur véracité, tout comme il n'existe aucun moyen des les infirmer. Il est par ailleurs problématique que ces instances ne se fassent pas prier pour attaquer la Chine, mais qu'elles soient incapable de faire la part des choses en recontextualisant et en ne dévoilant qu'une partie des informations.\
-De la même manière, on s'étonne largement du soutien de nombreux pays non-occidentaux à la politique chinoise, et, de la même manière, sans contexte, on l'expliquera par le fait que ce sont des dictatures ou des pouvoirs autoritaires qui sont moins regardants sur les droits fondamentaux. Ce qui peut être vrai dans certains cas, mais cela serait également nier les bénéfices économiques, l'anti-occidentalisme, et les espoirs d'une politique anti-terroriste, certes répressive, mais qui fonctionne réellement et qu'incarne le projet chinois pour ces pays.
+De la même manière, on s'étonne largement du soutien de nombreux pays non-occidentaux à la politique chinoise, et, sans contexte, on l'expliquera par le fait que ce sont des dictatures ou des pouvoirs autoritaires qui sont moins regardants sur les droits fondamentaux. Ce qui peut être vrai, mais cela serait également nier les bénéfices économiques, l'anti-occidentalisme, et les espoirs d'une politique anti-terroriste, certes répressive, mais qui fonctionne et qu'incarne le projet chinois pour ces pays.
 
 ## Sources
 
 *Note: Une partie des sources de cet article peut être retrouvée au sein d'un corpus d'articles qui a été regroupé de façon collaborative [pour débunker les allégations concernant le Xinjiang](https://web.archive.org/web/20200822183359/https:/docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). Cependant il convient d'être prudent, car ces sources sont de qualité variable. Une partie provient de CGTN, un média du gouvernement chinois, ce qui, du point de vue occidental, est discrédité d'office comme un média de propagande chinoise. Pour cette raison, les sources utilisées seront recitées de manière plus précise ci-dessous, et aucune ne proviendra de source officiellement pro-chinoise.*
 
-1. 
-2. 
-3. [Belt Road Initiative](https://www.beltroad-initiative.com/belt-and-road/)
-4. 
+1. [La région autonome du Xinjiang - Fiche Province de la Chine *(Ambassade de France en Chine)*](https://cn.ambafrance.org/IMG/pdf/2014-09_-_fp_-_xinjiang.pdf)
+2. [Belt Road Initiative](https://www.beltroad-initiative.com/belt-and-road/)
 5. [CHINE 2020 *(Amnesty International)*](https://www.amnesty.org/fr/countries/asia-and-the-pacific/china/report-china/)
 6. [Opinions on further strengthening and standardizing vocational skills education and training centers work *(Autonomous Region Party Political and Legal Affairs Commission)*](https://www.documentcloud.org/documents/6558510-China-Cables-Telegram-English.html)
 7. [Third Committee Experts Tackle Privacy Rights around Sensitive Health Data, Reparations for Racism, as Delegates Explore Issues of Consent, Compliance *(Assemblée générale du troisième commité, 74ème session, ONU)*](https://www.un.org/press/en/2019/gashc4276.doc.htm)
@@ -138,7 +141,6 @@ De la même manière, on s'étonne largement du soutien de nombreux pays non-occ
 12. [Le Comité pour l’élimination de la discrimination raciale examine le rapport de la Chine *(Haut-Commissariat des Nations Unies aux droits de l'homme (HCDH))*](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=23452&LangID=F)
 13. [Les mesures de répression draconiennes contre les musulmans du Xinjiang s’apparentent à des crimes contre l’humanité *(Amnesty International)*](https://www.amnesty.org/fr/latest/news/2021/06/china-draconian-repression-of-muslims-in-xinjiang-amounts-to-crimes-against-humanity/)
 14. 
-15. 
 16. [La Chine soupçonnée d'avoir utilisé des fonds de la Banque mondiale pour persécuter les Ouïghours *(Les Echos)*](https://www.lesechos.fr/monde/chine/la-chine-a-t-elle-utilise-des-fonds-de-la-banque-mondiale-pour-persecuter-les-ouighours-1147286)
 17. [World Bank Statement on Review of Project in Xinjiang, China *(Banque mondiale)*](https://www.worldbank.org/en/news/statement/2019/11/11/world-bank-statement-on-review-of-project-in-xinjiang-china)
 18. [Ouighours: "Aucune indication" que Pékin a détourné des fonds de la Banque mondiale *(Le Figaro)*](https://www.lefigaro.fr/flash-eco/ouighours-aucune-indication-que-pekin-a-detourne-des-fonds-de-la-banque-mondiale-20190830)
@@ -155,3 +157,7 @@ De la même manière, on s'étonne largement du soutien de nombreux pays non-occ
 29. [Chine : Crimes contre l’humanité au Xinjiang *(Human Rights Watch)*](https://www.hrw.org/fr/news/2021/04/19/chine-crimes-contre-lhumanite-au-xinjiang)
 30. [Site de la Uyghur American Association *(Uyghur American Association)*](https://www.uyghuraa.org/)
 31. [20 ans de guerre contre le terrorisme islamiste *(Statista)*](https://fr.statista.com/infographie/25750/pays-cibles-attentats-terroristes-islamiques-et-bilan-humain-2001-2021/)
+
+## Versions
+
+Publication: 30/12/2021
